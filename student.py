@@ -1,4 +1,4 @@
-student_name = "Anu"
+student_name = "Anu Joseph"
 
 mark1 = 85
 mark2 = 90
